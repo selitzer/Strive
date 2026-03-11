@@ -145,11 +145,7 @@ img{ max-width: 100%; display: block; }
 }
 
 .preview-card{
-  border-radius: 22px;
-  border: 1px solid var(--border);
-  background: var(--card);
   overflow: hidden;
-  box-shadow: var(--shadow);
 }
 
 .fade-up{
