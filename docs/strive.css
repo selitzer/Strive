@@ -123,6 +123,9 @@ img{ max-width: 100%; display: block; }
 
 .btn--sm{ padding: 10px 14px; font-size: 14px; background: var(--primary); color: #fff; }
 .btn--lg{ padding: 14px 18px; font-size: 16px; background: var(--primary); color: #fff; box-shadow: 0px 0px 10px var(--primary); }
+.btn--lg:hover {
+  box-shadow: 0px 0px 15px var(--primary);
+}
 
 .btn--secondary{
   background: #fff;
